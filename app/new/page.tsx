@@ -381,3 +381,5 @@ export default function TrainingCalculatorNew() {
     </div>
   );
 }
+
+export default TrainingCalculatorNew;
